@@ -24,4 +24,5 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # 国内媒体
 DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,sina.com
 
