@@ -7,8 +7,9 @@ DOMAIN-SUFFIX,hao123.com
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
 
-# IP段匹配
-IP-CIDR,124.237.225.32/32,no-resolve
+# IP段匹配, iqiyi_TV 
+IP-CIDR,123.126.128.23/32,no-resolve
+IP-CIDR,118.26.32.36/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -25,7 +26,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # 国内媒体
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,cloud.ptgy.gitv.tv
 
+#DOMAIN-SUFFIX,cloud.ptgy.gitv.tv
 #DOMAIN-SUFFIX,71edge.com
 
